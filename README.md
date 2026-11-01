@@ -116,5 +116,5 @@ The CSV files in `data/` are downloads from the Open-Meteo API (hourly temperatu
 
 ## Author
 
-**Varshini G**
+**VARSHINI GANESAN**
 [GitHub](https://github.com/vrshy) · [LinkedIn](https://linkedin.com/in/varshiganesan)
