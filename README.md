@@ -1,4 +1,4 @@
-# Weather Dashboard (Power BI): Hosur, Chennai, Bengaluru
+# Weather Dashboard : Hosur, Chennai, Bengaluru
 
 A two-page Power BI dashboard that models hourly weather data for three South Indian cities in a star schema and shows how temperature, rainfall and humidity differ by city and by hour of the day.
 
